@@ -7,3 +7,4 @@
 
 ## Caso queira entrar em contato:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://br.linkedin.com/in/nicolas-andr%C3%A9-krause-de-mello-b9176927b)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:mello.nicolasandre@gmail.com)
